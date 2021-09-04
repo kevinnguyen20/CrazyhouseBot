@@ -1,5 +1,4 @@
-module Main
-where
+module Main where
 
 import System.Environment
 import qualified Data.List as List
