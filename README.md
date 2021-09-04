@@ -12,6 +12,8 @@ Just a simple chess bot listing all possible moves concerning the chess variant 
 
 4. Enter a game situation (obviously it should be correct in terms of chess rules of Crazyhouse).
 
+5. Enjoy the set of possible moves!
+
 ## Samples
 
 ### Initial situation
