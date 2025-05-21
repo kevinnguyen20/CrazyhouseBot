@@ -1,6 +1,6 @@
 # CrazyhouseBot
 
-Just a simple chess bot listing all possible moves concerning the chess variant Crazyhouse (<https://en.wikipedia.org/wiki/Crazyhouse>). The notation is akin to the Forsyth-Edwards Notation (for further information: <https://en.wikipedia.org/wiki/Forsyth-Edwards_Notation>)
+Just a simple chess bot listing all possible moves concerning the chess variant [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse). The notation is akin to the [Forsyth-Edwards Notation](https://en.wikipedia.org/wiki/Forsyth-Edwards_Notation).
 
 ## How to use it
 
