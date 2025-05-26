@@ -1,4 +1,4 @@
-# CrazyhouseBot
+# Crazyhouse Bot
 
 Just a simple chess bot written in Haskell which is able to list all possible moves for the chess variant [Crazyhouse](https://en.wikipedia.org/wiki/Crazyhouse). The notation is akin to the [Forsyth-Edwards Notation](https://en.wikipedia.org/wiki/Forsyth-Edwards_Notation).
 
